@@ -23,8 +23,8 @@ To run these notebooks, you'll need to set up your Python environment and instal
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone <(https://github.com/Darktame/Stock_Market_Prediction.git)>
+    cd <Stock_Market_Prediction>
     ```
 
 2.  **Create a virtual environment (recommended):**
